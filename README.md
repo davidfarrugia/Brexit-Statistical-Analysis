@@ -33,11 +33,11 @@ library(coinmarketcapr)
 
 ### Datasets
 
-**GBP/EUR Exchange Daily Historic Data** - pulled from quantmod R package (source: Yahoo Finance)
-**GBP Effective Exchange Index** - UK National Statistics Office
-**UK Trading Data** - UK National Statistics Office
-**UK Consumer Price Indices** - UK National Statistics Office
-**Crypto Data** - pulled using crypto R package
+* **GBP/EUR Exchange Daily Historic Data** - pulled from quantmod R package (source: Yahoo Finance)
+* **GBP Effective Exchange Index**         - UK National Statistics Office
+* **UK Trading Data**                      - UK National Statistics Office
+* **UK Consumer Price Indices**            - UK National Statistics Office
+* **Crypto Data**                          - pulled using crypto R package
 
 ## Authors
 
