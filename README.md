@@ -4,7 +4,7 @@ This project uses R to carry out various statistical tests and analysis to disco
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
@@ -31,7 +31,13 @@ library(crypto)
 library(coinmarketcapr)
 ```
 
-Further datasets utilised are also included in this repo.
+### Datasets
+
+**GBP/EUR Exchange Daily Historic Data** - pulled from quantmod R package (source: Yahoo Finance)
+**GBP Effective Exchange Index** - UK National Statistics Office
+**UK Trading Data** - UK National Statistics Office
+**UK Consumer Price Indices** - UK National Statistics Office
+**Crypto Data** - pulled using crypto R package
 
 ## Authors
 
